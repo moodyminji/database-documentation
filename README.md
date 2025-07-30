@@ -72,7 +72,7 @@ The following mind map illustrates the key advantages of using a Database Manage
 | **Distributed**  | Multiple nodes, high availability          | Global apps, real-time systems            |
 | **Cloud**        | Hosted by providers, scalable              | SaaS platforms, mobile apps               |
 
-📌 *Architecture diagrams available in `assets/diagrams/cloud_db_architecture.png`*
+
 
 ---
 
